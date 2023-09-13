@@ -1,1 +1,25 @@
 /* your code */
+.table{
+	border-collapse:collapse;
+	min-width: 400px;	
+	font-size: 0.9em;
+	
+}
+.table thead tr{
+	text-align:left;
+	background-color:royalblue;
+	color:white;
+
+}
+.table tbody tr{
+	border-bottom:1px solid navajowhite;
+}
+#second{
+	background-color:#f3f3f3;
+}
+#fourth{
+	background-color:#f3f3f3;
+}
+.table td{
+	padding: 8px 5px;
+}
